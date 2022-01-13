@@ -1,0 +1,11 @@
+{
+  "win": {
+    "sums_url": "moverboca-1.0-win.sums", 
+    "version": "a350c7b1a8976880dc10202d35b98fe2c96736016b1874e63e115528a354d82e", 
+    "zsync_url": "moverboca-1.0-win.zsync", 
+    "json_url": "moverboca-1.0-win.update.json", 
+    "pretty_version": "1.0", 
+    "sums_size": 28268, 
+    "digest": "350470a64483d1911a2137d9fc1001deb21e574b0687caf90a03089acf368747"
+  }
+}
